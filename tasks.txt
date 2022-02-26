@@ -1,0 +1,12 @@
+tim, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 2019-10-10, 2022-10-25, No
+tom, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 2019-10-28, 2022-02-03, No
+ben, clean code, debug code of errors, 2022-02-01, 2022-02-01, No
+Pat, dance, keep the workplace a vibe, 2022-02-01, 2022-01-26, No
+pop, clean the store, keep things clean, 2022-02-01, 2022-05-15, No
+admin, check for deadline, check deadlines for future projects, 2022-02-15, 2022-02-16, No
+admin, check if system works, check if there are no issues with system programs that run the business, 2022-02-15, 2022-02-16, No
+admin, just work, work hard today, 2022-02-15, 2022-02-25, No
+admin, check, check if everyone is productive, 2022-02-15, 2022-03-01, No
+admin, plan, plan new strategy for business, 2022-02-15, 2022-03-25, No
+tim, check dates, check if date formats are correct, 2022-02-16, 2022-05-23, No
+admin, check values, check if values for program work, 2022-02-16, 2022-02-01, No

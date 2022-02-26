@@ -1,0 +1,7 @@
+Total number of registered users are 8
+Total number of task are 12
+Total number of tasks for admin are 6
+Total percentage of tasks for admin is 50.0%
+Total percentage of tasks completed by admin is 0.0%
+Total percentage of tasks not completed by admin is 100.0%
+Total percentage of tasks that are overdue and not completed by admin is 16.666666666666664%
