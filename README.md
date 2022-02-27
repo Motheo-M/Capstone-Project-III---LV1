@@ -22,7 +22,9 @@ Once the login is correct, the program will have a menu with the following optio
 2. **a - add task**
 3. **va - view all tasks**
 4. **vm - view my tasks**
-5. **e - exit**
+5. **gr - generate reports**
+6. **vds - display statistics**
+7. **e - exit**
 
 The **_register user_** option allows any member to register a new user, along with password, to use the software program.<br/>
 The details of the user login crdentials are _stored_ in _user.txt_.
@@ -33,6 +35,34 @@ The _details_ of the tasks are stored in _tasks.txt_.
 The **_view all tasks_** option allows anyone to see **all** the tasks assigned to which member of the team along with tasks details.
 
 The **_view my tasks_** option allows the user logged in to see **all** their assigned tasks along with tasks details.
+
+The **_generate reports_** option is chosen, 2 text files named _task_overview.txt_ and _user_overview.txt_ will be generated.
+#### task_overview.txt should contain the following:
+  * The total number of tasks that have been generated and
+tracked using the task_manager.py.
+  * The total number of completed tasks.
+  * The total number of uncompleted tasks.
+  * The total number of tasks that haven’t been completed and
+that are overdue.
+  * The percentage of tasks that are incomplete.
+  * The percentage of tasks that are overdue.
+
+#### user_overview.txt should contain the following:
+  * The total number of users registered with task_manager.py.
+  * The total number of tasks that have been generated and
+tracked using the task_manager.py.
+##### For each user describe the following:
+  * The total number of tasks assigned to that user.
+  * The percentage of the total number of tasks have
+been assigned to that user that is logged in.
+  * The percentage of the tasks assigned to the logged in user 
+that have been completed.
+  * The percentage of the tasks assigned to the logged in user 
+that must still be completed.
+  * The percentage of the tasks assigned to the logged in user
+that have not yet been completed and are overdue.
+
+The **_display statistics_** option allows the user to read the statistics of both the _task_overview.txt_ and _user_overview.txt_ in a friendly manner.
 
 The **_exit_** option let's the user log off the software program.
 
